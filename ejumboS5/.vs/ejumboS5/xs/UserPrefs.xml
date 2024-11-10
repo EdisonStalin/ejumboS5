@@ -1,8 +1,15 @@
 ﻿<Properties StartupConfiguration="{1387FC7C-3ACB-4DAA-B536-BEC4D2E2E86E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ejumboS5/MainPage.xaml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.emulator-5554" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ejumboS5/MainPage.xaml.cs">
     <Files>
-      <File FileName="ejumboS5/Modelos/Persona.cs" Line="1" Column="1" NotebookId="3" />
-      <File FileName="ejumboS5/MainPage.xaml" Line="1" Column="1" NotebookId="3" />
+      <File FileName="ejumboS5/MainPage.xaml" Line="38" Column="25" NotebookId="2" />
+      <File FileName="ejumboS5/MainPage.xaml.cs" Line="30" Column="1" NotebookId="2" />
     </Files>
     <FloatingWindows>
       <FloatingWindow WindowId="1" X="923" Y="93" Width="772" Height="782">
@@ -10,37 +17,23 @@
           <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/16.4.7142/tools/msbuild/iOS/Xamarin.Shared.targets" Line="1757" Column="3" />
         </Files>
       </FloatingWindow>
-      <FloatingWindow WindowId="2" X="442" Y="93" Width="772" Height="782">
+      <FloatingWindow WindowId="2" X="245" Y="93" Width="1388" Height="782">
         <Files>
-          <File FileName="ejumboS5/MainPage.xaml.cs" Line="12" Column="1" NotebookId="1" />
-        </Files>
-      </FloatingWindow>
-      <FloatingWindow WindowId="3" X="245" Y="93" Width="1388" Height="782">
-        <Files>
-          <File FileName="ejumboS5/MauiProgram.cs" Line="22" Column="1" NotebookId="2" />
+          <File FileName="ejumboS5/MauiProgram.cs" Line="22" Column="1" NotebookId="1" />
         </Files>
       </FloatingWindow>
     </FloatingWindows>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ejumboS5" expanded="True">
-            <Node name="ejumboS5">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="AppShell.xaml" expanded="True" />
-              <Node name="MainPage.xaml" selected="True" />
+          <Node name="ejumboS5" expanded="True" selected="True">
+            <Node name="ejumboS5" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.10.1_WXGA_Tablet_API_33" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ejumboS5 PreferredExecutionTarget="Android.10.1_WXGA_Tablet_API_33" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
